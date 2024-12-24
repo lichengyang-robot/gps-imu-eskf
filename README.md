@@ -2,7 +2,7 @@
 ## Using EKF to fuse IMU and GPS data to achieve global localization.
 ### The code is implemented base on the book "Quaterniond kinematics for the error-state Kalman filter"
 
-![alt text](image.png)
+![alt text](image-1.png)
 
 # run:
 roslaunch imu_gps_localization imu_gps_localization.launch
